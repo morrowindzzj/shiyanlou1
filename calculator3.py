@@ -1,4 +1,4 @@
-mport sys
+import sys
 try:
     for arg in sys.argv[1:]:
         str_temp=arg.split(':')
